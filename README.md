@@ -6,8 +6,8 @@ Welcome to my Python repository! This repository contains a collection of mini-p
 
 * **Voting System Project** - An interactive desktop application built using Python's **Tkinter** for the user interface and **SQLite3** for data persistence. It allows user registration with unique identity validation and features error handling.
 * **Rock Paper Scissor Game** - A classic, logic-based command-line game that interacts with the user and utilizes Python's built-in `random` module for automated opponent choices.
-* **To-Do List Project** - A practical application built to create, update, and manage daily tasks efficiently, demonstrating data structure manipulation (lists/dictionaries) in Python.
-* **Calculator** - A functional arithmetic application designed to perform standard mathematical operations with proper input validation and control flow.
+* **To-Do List Project** - A practical application built to create, update, and manage daily tasks efficiently, graphics built by using GUI in python
+* **Calculator** - A functional arithmetic application designed to perform standard mathematical operations with proper input validation and control flow Uses Graphical User Interface 
 
 ## 🛠️ Tech Stack & Concepts Used
 * **Language:** Python 3.x
